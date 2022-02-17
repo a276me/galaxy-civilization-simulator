@@ -1,0 +1,821 @@
+Dutronia
+
+Ventonia IX
+
+Saigill K'finer
+
+Pluaroid
+
+Poropa Boroid XV
+
+Biacan 16
+
+Sotomi 337
+
+Tasury
+
+Culox Dikarlas
+
+Darkongolia
+
+L'era
+
+Zedvas
+
+West Xyon
+
+Amontose 315
+
+Htropic Moon
+
+Cudaleko
+
+Haroros Munvav 9
+
+East Umtus World
+
+Saiaddon 7
+
+Banara 243
+
+Sotdonia
+
+Depchia Poolangolia
+
+Zinggolia
+
+Duaka 5
+
+Epsilon Vakol Winreus
+
+Tatelerth 6
+
+Epsilon Oberebus
+
+Brumatoid XI
+
+Senelialia
+
+Cerella 165
+
+Aeropia Sigma
+
+Betoid B’umi 253
+
+Furntos
+
+New Vamler Ciza
+
+Wunamis Caavera 360
+
+Obilla 40
+
+Foxrax Moon
+
+White Kenreus Satcaris
+
+Clooin e2
+
+Baudros Longomi Sigma
+
+B’borto
+
+Betara III
+
+Tagtos Durtara 201
+
+Wotaria Wunal IV
+
+Kuornania
+
+Tau Foxiza XIV
+
+Plane‘am IX
+
+Vadanbula 193
+
+The desert planet of Caoda
+
+Obtropic Antumi 355
+
+Cukien Obule 70
+
+Alpha Kodania Treepaldi
+
+Umidian
+
+Vamlok Ataranella 6
+
+Taflox XII
+
+Exodaleko
+
+New Oxtaria
+
+Beta Loaka 379
+
+Mirancan
+
+Dethra
+
+The ancient planet of Tappidor 378
+
+Paumi Anchil
+
+Senania Tavera 5
+
+Nibelialia 93
+
+Loneion Bacury 306
+
+Cernicus
+
+Carralla
+
+North Vadborto Deacan
+
+The lava world of Vamudros 293
+
+Old Vab‘an 279
+
+Foxcaris Boule 288
+
+Legeran Fardikar 37
+
+Lodonia
+
+Talman
+
+East Ladpidor Kukail
+
+Tamrax
+
+Fonian Tarcury
+
+Xe'alla Kappa
+
+The mist planet of Ter Threpumi XI
+
+Amesh XVI
+
+Amaldi 370
+
+Tacus
+
+Vabeus 208
+
+Obvin
+
+Ter Threpopia
+
+Vakshaa 233
+
+Thanlak
+
+Gamma Bebudria Svaalis
+
+Durdalekon
+
+Zingeria Cilon
+
+Tagitas 313
+
+Zerchania 3
+
+Wimaddon 11
+
+Galad‘us 252
+
+Tafitas
+
+Daelos 239
+
+Taciza 129
+
+The mist planet of Niboda Baix
+
+Dikarburto
+
+Vadbudria XII
+
+Dererebus
+
+Poolaroid 12
+
+Hedgill Vad‘am
+
+Nonvas e3
+
+Xyoda 332
+
+Areria X'shaa XIV
+
+Ianule
+
+North Tadarth Sideniman
+
+Ananicus
+
+Deptaria Sigma
+
+The mist planet of Saielos B’roid
+
+Sum-o
+
+Khanuridian III
+
+Xyomi 10
+
+Klincania e3
+
+Zerera Sot Ankuridian 200
+
+Rembudria
+
+Old Shanera Moon
+
+Vakdonia Scarumi e1
+
+Ceti Nightol 102
+
+Old Duvav
+
+Camplok Lochania 6
+
+Beta Baornia Cibongo 28
+
+Nonillian Argania
+
+Ozoid Guntvin 228
+
+Poolcury Guntthra 181
+
+Zeng‘am Cyshaa
+
+Alpha Vabeko Tolto 270
+
+Vakton X
+
+Tva Zengdonia
+
+Kaangania Eavas
+
+C’dai
+
+Arcal XII
+
+West Venolok 330
+
+Ll'aleko 226
+
+Tacenia Carcaris 9
+
+Sevshaa Farfiner 185
+
+Prodikar
+
+White Tacnt
+
+Depurrinia
+
+East Arorox 9
+
+Epsilon Anturam Ovbudria
+
+Alpha Omega Taxroid
+
+Delta Elelius
+
+Archil X
+
+Ceramis IX
+
+Sainar
+
+White Furvas Grenox 353
+
+North Grentopia Proviz 8
+
+Senes Aeriates
+
+Ketongolia
+
+Fontronia 99
+
+Treltan
+
+Dunminiar 116
+
+Vadtaria 143
+
+Omega Ibamis 158
+
+Steep‘am 100
+
+Betorox Planecon
+
+Losea 28
+
+Plodalekon XV
+
+New Foxacalla
+
+Nadnia 198
+
+Tdikar
+
+Taros Tacidian 12
+
+K'rog 353
+
+Camptep Kaanebus
+
+Dikaraka
+
+Churburto
+
+Conrock 11
+
+Eadikar 167
+
+Kneurrinia 247
+
+Xe'arth
+
+Loarnia Aox 296
+
+Loaldi Uranenella
+
+Sot Ankopia 80
+
+Omega Carrus 98
+
+Farangalia Papuram 114
+
+Pataka Plotopia 383
+
+Outes Merumi XVI
+
+Ozuridan 74
+
+White Eraleko XV
+
+Wonong 74
+
+The moon of Xioaldi
+
+Proutlis e4
+
+Vakdania gas giant
+
+Outdikar Heldai 389
+
+Abryn Cyvana V
+
+C’opa
+
+Exotose Prime
+
+Alpha Omega Tapankor Prime
+
+Whatebus
+
+Tapdonia Sulda
+
+Pappod Kaanarnia
+
+Vivatoid 166
+
+Omega Taipid 7
+
+Kaanelialia Ketton
+
+Aborto 318
+
+Honerebus VIII
+
+North Avelos B’nia
+
+Umornania
+
+L'illian 177
+
+Tamongolia
+
+C’enia III
+
+White Treeptan
+
+Koiza Moon
+
+Whimcania
+
+Talmomi 1
+
+Duorkon
+
+Alpha Omega Sentose Carelos e1
+
+Wimelos
+
+Omega Tamorox Janaran XII
+
+Poolelialia Aerryn 5
+
+Waron IV
+
+Shandakutlis 157
+
+Aridian IX
+
+Arcchania Moon
+
+Longvas
+
+Shandakeaux
+
+Proonine
+
+Ter Threplon 115
+
+Zeta Deepiza 41
+
+Daangolia Ianandia 12
+
+Ll'inax Alpha
+
+Nitalis II
+
+Htrock
+
+Tacornia Audros 105
+
+Atius 194
+
+Ll'iza 236
+
+Vad-o IX
+
+Ceti Tal
+
+Suilanella Kenvis e4
+
+Hedarnia 75
+
+Aeromi 346
+
+Warum
+
+Banreus
+
+Ærog 112
+
+Alpha Svadoria
+
+Sunarius 18
+
+Foxdania
+
+Tadesh
+
+Warchin
+
+Ceti Tagcon 387
+
+Epsilon Anland
+
+Wimebus Banteaux
+
+Nitland
+
+Kentara Sideniman 224
+
+Biolok X
+
+Intacan Sot Loopa
+
+Xyion Wunebus Moon
+
+Sunanbula Munto
+
+Atchania gas giant
+
+Deepviz
+
+Niritas
+
+Caalla Ovopa
+
+Naduridan e2
+
+Erza
+
+Noongolia Obto
+
+Guntangolia Fonsea VI
+
+Denar
+
+Wonia Zingomi
+
+Wonryn 130
+
+Beta Treepania
+
+Zemule
+
+Sot Lolax Vopalos
+
+North Broandia Foxamis
+
+Tashurdan
+
+Delera
+
+Sot Ankuram
+
+Uranopa
+
+Pertfall Bandonia 202
+
+Sevchania
+
+La Aeriaacalla Lonerock 143
+
+Durchania
+
+Shandakorox Ploiru
+
+Astar‘us 216
+
+The ancient planet of Majestorox Dikartus
+
+Scarornia
+
+Zeta Klinorox 177
+
+Sot Loeran Tacadon 149
+
+Suilbudram
+
+Steepelius Gamma
+
+Prannicus VI
+
+Atarangalia 59
+
+Cloeko
+
+Corrpid Ll'uram Kappa
+
+Corrinax
+
+Bonacalla
+
+Epsilon Warix
+
+Nonavera 370
+
+Woutlis Mazeus 388
+
+Tadva Cathra 378
+
+Scarania
+
+West Antelerth Kaanland IV
+
+Vabva Egill 258
+
+Epsilon Wonelius
+
+Urburto Scargatis 2
+
+Campdoria
+
+Mazelius 246
+
+Remumi Sonury
+
+Wonangolia
+
+La Ovdikar
+
+Zeta Svaopia 159
+
+Taviru Miranumi
+
+Umchia
+
+Ataros e1
+
+Faraldi 4
+
+Proler Xe'dai
+
+Poollox
+
+Ealos Ozcania
+
+Sot Loacalla
+
+Plotonia 375
+
+Tagumi 34
+
+Plingdalekon War‘an
+
+East Fungnar Iburidian
+
+Tepix Ll'tus
+
+Kepidian 190
+
+Sot Ankudros Ivalos
+
+Sumryn
+
+Tau Ceti Tafoda 4
+
+Tadgolia 77
+
+Venopa
+
+Saiongolia 8
+
+Venania Campborto 125
+
+Whataka Zengaroid 370
+
+Kaanreus Sigma
+
+K'da Arctus
+
+Heloid 10
+
+Zeranbula Umidian 239
+
+Beborto 397
+
+Loenia 1
+
+Reminax e4
+
+Aeriaurdan 256
+
+Biankor Brominiar
+
+Ciavera
+
+Las Than Dokania
+
+Coperlejos Thryalla 44
+
+Dureus 40
+
+Vakchil III
+
+Woelius
+
+Aerkien 5
+
+Tau Ceti Sot Logill Thrynar XII
+
+Klinomi
+
+Svapidor 383
+
+Churamis 227
+
+Cukail Correus
+
+Theta L'eus Beshaa 6
+
+Miranchil
+
+Vadda Kuoid
+
+Omega Boes Prime
+
+Zeta Baruria Caramis
+
+Honopia
+
+Bantdonia 364
+
+Datrock
+
+Lonecania
+
+Ozntos Loneian
+
+So'doria XII
+
+Æoin
+
+Sizeneaux e1
+
+La Grenpidor e3
+
+Umiza VII
+
+Galadarius Duelius 65
+
+Amus Intania 243
+
+Sot‘an I
+
+So'ol
+
+Cercania 2
+
+The moon of X'miniar
+
+Darknor
+
+Khanuria
+
+Suilomi Taftara 27
+
+Ketos
+
+Ov‘am 204
+
+Vamtus Sot Lo‘an
+
+Wonler Khanler 234
+
+White Baelialia e2
+
+Nocania 332
+
+Depvav 178
+
+Poolreus 53
+
+Deriru IX
+
+Sumlejos 227
+
+Oxchia e4
+
+Outavera XIV
+
+Longdaleko 297
+
+Sonfall IX
+
+Ceti Merctropic 129
+
+Xe'alla
+
+Epsilon Iboid Alpha
+
+Barnt Uranda
+
+Intlox Ianoid XV
+
+Nirtonia Ariabongo
+
+Los Echania
+
+Poromi
+
+Plingaka 115
+
+Zemdikar
+
+Biella 11
+
+Svaopia
+
+Tapadon XI
+
+Departh Sonaka
+
+Alpha Omega Ceovin 353
+
+Carrenella
+
+Zemong L'viz 244
+
+Nonviz Alpha
+
+Tasvin
+
+Furoin Talmrog 220
+
+Faravera Prime
+
+Saienella Gamma
+
+Ovkail
+
+White Xiotes 157
+
+Faral
+
+Foxpid X
+
+Darktronia 213
+
+Woalis
