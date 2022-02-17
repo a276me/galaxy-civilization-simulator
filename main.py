@@ -23,10 +23,15 @@ core.setup()
 pygame.init()
  
 # Define the dimensions of screen object
-screen = pygame.display.set_mode((600, 600))
+screen = pygame.display.set_mode((950, 650))
  
 # Variable to keep our game loop running
 gameOn = True
+
+clock = pygame.time.Clock()
+clock.tick(30)
+
+avrg = []
  
 # Our game loop
 while gameOn:
@@ -70,6 +75,7 @@ while gameOn:
         pygame.draw.circle(screen, core.CIVS[i.owner].color,[i.POS[0], i.POS[1]], 1, 0)
     
     pygame.draw.circle(screen,(255,255,255),[20, 20], 10, 0)
+    
  
  
     # Update the display using flip

@@ -8,7 +8,7 @@ def getpoints():
         for item in reader:
             a.append(item)
         
-    x_points, y_points = [[(int(i)+2600)*0.115 for i in a[0]],[(int(i)+2600)*0.115 for i in a[1]]]
+    x_points, y_points = [[(int(i)+2600)*0.13 for i in a[0]],[(int(i)+2600)*0.13 for i in a[1]]]
     
     return x_points, y_points
 
