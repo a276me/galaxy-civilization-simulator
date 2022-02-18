@@ -51,7 +51,10 @@ cpdef move():
             nps = []
             
             for j in range(len(STARS)):
-                if dist(STARS[i].POS, STARS[j].POS) < 10+CIVS[c].tech and j not in CIVS[c].systems:
+                l = CIVS[c].tech
+                if l > 20:
+                    l = 20
+                if dist(STARS[i].POS, STARS[j].POS) < 10+l and j not in CIVS[c].systems:
                     if(random.randint(0,CIVS[c].tech+CIVS[STARS[i].owner].tech) < CIVS[c].tech):
                         nps.append(j)
                     # print(len(CIVS[c].systems))
@@ -72,7 +75,7 @@ cpdef move():
 
         if random.randint(0,1000) < 5:
             CIVS[c].tech += 1
-            if CIVS[c].tech > len(CIVS[c].systems) or CIVS[c].tech > 20:
+            if CIVS[c].tech > len(CIVS[c].systems):
                 CIVS[c].tech -= 1
             # print('tech increased')
         elif random.randint(0,1000) < 3:
