@@ -2,6 +2,7 @@ import readcsv
 import random
 import pygame
 import sys
+import time
 from core.star import Star
 from core.Civilization import *
 from pygame.locals import *
@@ -47,9 +48,6 @@ screen = pygame.display.set_mode((950, 650))
 # Variable to keep our game loop running
 gameOn = True
 
-clock = pygame.time.Clock()
-clock.tick(30)
-
 avrg = []
     
 #    img = myfont.render(t, (255,255,255))
@@ -60,16 +58,9 @@ while gameOn:
     # for loop through the event queue
     for event in pygame.event.get():
          
-        # Check for KEYDOWN event
-        if event.type == KEYDOWN:
-             
-            # If the Backspace key has been pressed set
-            # running to false to exit the main loop
-            if event.key == K_BACKSPACE:
-                gameOn = False
                  
         # Check for QUIT event
-        elif event.type == QUIT:
+        if event.type == QUIT:
             gameOn = False
             
 #    for c in range(1, len(CIVS), 1):
@@ -99,7 +90,12 @@ while gameOn:
     
     pygame.draw.circle(screen,(255,255,255),[20, 20], 10, 0)
     
-    leaderboard = core.CIVS[1:]
+    leaderboard = [] 
+    for i in core.CIVS[1:]:
+        if len(i.systems) >0:
+            leaderboard.append(i)
+
+
     
     leaderboard.sort()
     leaderboard.reverse()
@@ -114,17 +110,24 @@ while gameOn:
     
     j = 0
     for i in leaderboard:
-#        if len(i.systems) ==0:
-#            continue
+        if len(i.systems) ==0:
+           continue
 
         out(5+j*2, 0, ' '*100)
         out(5+j*2, 0, i.name)
         out(5+j*2, 40, str(i.tech))
         out(5+j*2, 44, str(len(i.systems)))
-        out(5+j*2, 50, str(getColor('O'*4, i.color)))
+        out(5+j*2, 50, i.state)
+        out(5+j*2, 60, str(getColor(' '*4, i.color)))
+
         
         j+=1
- 
+    
+    j = 0
+    for i in core.MSG[-5:]:
+        out(5+j*2, 0, ' '*100)
+        out(60+j*2, 0, i)
+        j+=1
  
     # Update the display using flip
     pygame.display.flip()
