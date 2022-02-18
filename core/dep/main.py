@@ -19,16 +19,16 @@ def setup():
     CIVS = [Civilization('neutral',0), Civilization('test',25),Civilization('test',10)]
     CIVS[0].color = (255,255,255)
 
-    cdef int i = 0
+#    cdef int i = 0
     for i in range(2000):
         p = random.choice(P)
         STARS.append(Star(p[0], p[1]))
 
 def move():
     global CIVS
-    cdef int k = 0
-    cdef int j = 0
-    cdef int i
+#    cdef int k = 0
+#    cdef int j = 0
+#    cdef int i
     for c in range(1, len(CIVS), 1):
         newsys = []
         for k in range(CIVS[c].tech):
@@ -50,8 +50,7 @@ def move():
             
         CIVS[c].systems += newsys
         for i in newsys:
-            print(len(CIVS[STARS[i].owner].systems))
-            CIVS[STARS[i].owner].systems.remove(i)
+            CIVS[STARS[i].owner].remove(i)
             STARS[i].owner = CIVS[c].id
             
 

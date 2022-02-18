@@ -14,3 +14,8 @@ class Civilization:
         self.systems.append(startSys)
         self.tmp = []
         
+        if self.id == 0:
+            self.systems = []
+            for i in range(2000):
+                self.systems.append(i)
+        
