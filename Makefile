@@ -4,4 +4,8 @@ default:
 
 	python main.py
 
+git:
+	git add .
+	git commit -m "just another commit"
+	git push
 
