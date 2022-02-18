@@ -121,7 +121,7 @@ while gameOn:
         out(5+j*2, 0, i.name)
         out(5+j*2, 40, str(i.tech))
         out(5+j*2, 44, str(len(i.systems)))
-        out(5+j*2, 48, str(getColor('O'*4, i.color)))
+        out(5+j*2, 50, str(getColor('O'*4, i.color)))
         
         j+=1
  

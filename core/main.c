@@ -903,7 +903,7 @@ static const char *__pyx_filename;
 
 
 static const char *__pyx_f[] = {
-  "core/main.pyx",
+  "core\\main.pyx",
 };
 
 /*--- Type declarations ---*/
@@ -1420,7 +1420,7 @@ static const char __pyx_k_core_star[] = "core.star";
 static const char __pyx_k_getpoints[] = "getpoints";
 static const char __pyx_k_Civilization[] = "Civilization";
 static const char __pyx_k_generateName[] = "generateName";
-static const char __pyx_k_core_main_pyx[] = "core/main.pyx";
+static const char __pyx_k_core_main_pyx[] = "core\\main.pyx";
 static const char __pyx_k_pygame_locals[] = "pygame.locals";
 static const char __pyx_k_core_Civilization[] = "core.Civilization";
 static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
