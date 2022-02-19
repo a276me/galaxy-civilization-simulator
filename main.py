@@ -124,10 +124,11 @@ while gameOn:
         j+=1
     
     j = 0
-    for i in core.MSG[-5:]:
-        out(5+j*2, 0, ' '*100)
-        out(60+j*2, 0, i)
-        j+=1
+    
+#    for i in core.MSG[-5:]:
+#        out(5+j*2, 0, ' '*100)
+#        out(60+j*2, 0, i)
+#        j+=1
  
     # Update the display using flip
     pygame.display.flip()

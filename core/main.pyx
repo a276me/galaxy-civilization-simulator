@@ -18,7 +18,7 @@ def setup():
     global CIVS, STARS
     q, w = readcsv.getpoints()
     P = [[q[i],w[i]] for i in range(len(q))]
-    CIVS = [Civilization(generateName(),0), Civilization(generateName(),25),Civilization(generateName(),10)]
+    CIVS = [Civilization(generateName(),0)]
     CIVS[0].color = (255,255,255)
 
     cdef int i = 0
@@ -61,7 +61,7 @@ cpdef move():
             
             for j in range(len(STARS)):
                 if dist(STARS[i].POS, STARS[j].POS) < 10+CIVS[c].tech and j not in CIVS[c].systems:
-                    if(random.randint(0,CIVS[c].tech+CIVS[STARS[i].owner].tech) < CIVS[c].tech):
+                    if(random.randint(0,2**CIVS[c].tech+ 2**CIVS[STARS[i].owner].tech) < 2**CIVS[c].tech):
                         nps.append(j)
                     # print(len(CIVS[c].systems))
 
@@ -111,7 +111,7 @@ cpdef move():
             CIVS[c].systems.remove(s)
             CIVS[0].systems.append(s)
             STARS[s].owner = 0
-        elif random.randint(0,1000) < 30 and CIVS[c].tech >1:
+        elif random.randint(0,1000) < 30 and CIVS[c].tech >1 and CIVS[c].state == 'failing':
             CIVS[c].tech -= 1
 
         if CIVS[c].tech < 0:
